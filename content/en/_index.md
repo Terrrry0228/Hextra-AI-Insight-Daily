@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-03/2026-03-19" title="AI News Daily 2026/03/19" subtitle="Tencent Hunyuan 3.0 set for April release, MiniMax M2.7 All-Rounder model" icon="calendar" >}}
+{{< card link="/en/2026-03/2026-03-20" title="AI News Daily 2026/03/20" subtitle="Qwen3.5 Max数学能力全球第三，Cursor发布Composer 2，Devin开启多智能体编排 谷歌AI Studio升级支持协作编程，OpenAI收购Astral强化Codex工具链 潜空" icon="calendar" >}}
+  {{< card link="/en/2026-03/2026-03-19" title="AI News Daily 2026/03/19" subtitle="Tencent Hunyuan 3.0 set for April release, MiniMax M2.7 All-Rounder model" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-18" title="AI News Daily 2026/03/18" subtitle="'GPT-5.4 lightweight model and Midjourney V8 test release: Inference" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-17" title="AI News Daily 2026/03/17" subtitle="NVIDIA launches GB300 desktop supercomputer, 748GB memory capable of" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-16" title="AI News Daily 2026/03/16" subtitle="Microsoft, NVIDIA, OpenAI Release New Products Simultaneously; Billion-Dollar" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-15" title="AI News Daily 2026/03/15" subtitle="Claude's million-token context fully open, supporting 600 images. 360" icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-14" title="AI News Daily 2026/03/14" subtitle="Gemini mobile automates cross-app tasks, Claude plugins enable cross-application" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 New to AI? The [AI Weekly](/en/blog/weekly/) is your perfect launchpad! It's crafted to help you quickly grasp crucial industry shifts and keep you from getting swamped by fragmented info. Get ready to level up your learning, fast!
 
 ### 2. Stay in Daily Sync
-Wanna stay razor-sharp on AI? The [AI Daily Archive](/en/2026-03/2026-03-19) is your daily fix! Just 5 minutes a day keeps you totally synced with the global AI pulse. Stay sharp! 🎯
+Wanna stay razor-sharp on AI? The [AI Daily Archive](/en/2026-03/2026-03-20) is your daily fix! Just 5 minutes a day keeps you totally synced with the global AI pulse. Stay sharp! 🎯
 
 ### 3. Explore Deeper Practice
 Ready to geek out? The [Blog](/en/blog/) is your go-to for deeper dives and hands-on practice! It's packed with structured guides on AI tools, workflows, and supercharging your productivity. Unleash your inner tech wizard! ✨
